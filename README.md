@@ -13,4 +13,12 @@
 npm install && node server.js
 
 ```
+## Technology Stack
+- [x] nodejs
+- [x] socket.io
+- [x] express
 
+## Contributors
+<zhenglin.zhu@xfxb.net>
+## License
+[MIT](http://web.mit.edu/)
