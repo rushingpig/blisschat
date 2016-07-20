@@ -4,7 +4,7 @@ var express = require('express'),
     io = require('socket.io').listen(server);
 
 var users = [];
-var port = 3000;
+var port = 5000;
 
 app.use('/',express.static(__dirname + '/www'));
 server.listen(port);
